@@ -1,0 +1,10 @@
+numpy
+keras
+tensorflow
+joblib
+times
+scikit-learn
+opencv-python
+pillow
+flask
+flask_cors
