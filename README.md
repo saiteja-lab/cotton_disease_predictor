@@ -43,7 +43,7 @@ ollama run mistral
 
 
 
-### 2. Setup Backend (Flask)
+### 3. Setup Backend (Flask)
 
 #### 🔹 Create a virtual environment (optional but recommended)
 ```bash
@@ -62,7 +62,7 @@ pip install -r requirements.txt
 python app.py
 ```
 
-### 3. Setup Frontend (React)
+### 4. Setup Frontend (React)
 #### 🔹 Installing packages
 ```bash
 npm install
