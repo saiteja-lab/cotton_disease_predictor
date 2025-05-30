@@ -34,29 +34,29 @@ cd cotton-disease-predictor
 
 ### 2. Setup Backend (Flask)
 
-## 🔹 Create a virtual environment (optional but recommended)
+#### 🔹 Create a virtual environment (optional but recommended)
 ```bash
 cd backend
 python -m venv venv
 source venv/bin/activate  # Linux/macOS
 venv\Scripts\activate     # Windows
 ```
-## 🔹 Install dependencies
+#### 🔹 Install dependencies
 ```bash
 pip install -r requirements.txt
 ```
 
-## 🔹 Run the Flask server
+#### 🔹 Run the Flask server
 ```bash
 python app.py
 ```
 
 ### 3. Setup Frontend (React)
-## 🔹 Installing packages
+#### 🔹 Installing packages
 ```bash
 npm install
 ```
-## 🔹 Run the frontend
+#### 🔹 Run the frontend
 ```bash
 npm run dev
 ```
