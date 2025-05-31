@@ -8,3 +8,5 @@ opencv-python
 pillow
 flask
 flask_cors
+python-dotenv
+google-generativeai
