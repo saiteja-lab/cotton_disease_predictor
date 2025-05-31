@@ -32,18 +32,7 @@ git clone https://github.com/your-username/cotton-disease-predictor.git
 cd cotton-disease-predictor
 ```
 
-### 2. Ollama Setup
-
-#### Install Ollama https://ollama.com
-
-```bash
-ollama run mistral
-```
-#### Prefer Mistral
-
-
-
-### 3. Setup Backend (Flask)
+### 2. Setup Backend (Flask)
 
 #### 🔹 Create a virtual environment (optional but recommended)
 ```bash
@@ -62,7 +51,7 @@ pip install -r requirements.txt
 python app.py
 ```
 
-### 4. Setup Frontend (React)
+### 3. Setup Frontend (React)
 #### 🔹 Installing packages
 ```bash
 npm install
